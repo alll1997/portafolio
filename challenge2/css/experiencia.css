@@ -1,0 +1,103 @@
+.experienciaProfesional h3{
+    display: flex;
+    justify-content: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2rem;
+    color: var(--color-texto);
+    padding-bottom: 1rem;
+}
+
+.proyect{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem 0;
+}
+.proyect{
+    display: flex;
+    justify-content: space-between;
+}
+
+.proyect div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.reverse{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.experienciaProfesional img{
+    width: 70%;
+}
+
+.proyect div h2{
+    display: flex;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.3rem;
+    padding-bottom: .5rem;
+}
+
+.btn-white{
+    padding: .5rem 1rem;
+    margin: 1rem;
+    border: rgba(42, 122, 228, 1) solid .1rem;
+    color: rgba(42, 122, 228, 1);
+    cursor: pointer;
+    border-radius: .2rem;
+}
+
+.btn-blue{
+    padding: .5rem 1rem;
+    margin: 1rem 0;
+    border: none;
+    color: #ffffff;
+    border: rgba(42, 122, 228, 1) solid .1rem;
+    background-color: rgba(42, 122, 228, 1);
+    cursor: pointer;
+    border-radius: .2rem;
+}
+
+.btn-blue a{
+    background-color: rgba(42, 122, 228, 1);
+    color: #ffffff;
+}
+
+@media (max-width: 900px) {
+    .experienciaProfesional h3{
+        font-size: 1rem;
+        padding-bottom: 0;
+    }
+    .experienciaProfesional img{
+        width: 100%;
+        padding-bottom: .5rem;
+    }
+    .proyect, .proyect .reverse{
+        flex-direction: column;
+    }
+    .proyect div h2{
+        font-size: .8rem;
+        padding-bottom: .3rem;
+    }
+    .proyect div text{
+        font-size: .6rem;
+    }
+    .btn-white, .btn-blue{
+        padding: .2rem .5rem;
+        margin: .5rem;
+        font-size: .6rem;
+    }
+}
+@media (max-width: 500px) {
+    .proyect div text{
+        margin: 0;
+    }
+    .btn-white, .btn-blue{
+        margin: .5rem 0;
+    }
+}

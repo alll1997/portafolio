@@ -1,0 +1,161 @@
+.contacto{
+    display: flex;
+    justify-content: space-around;
+}
+.contacto img{
+    height: 100%;
+    width: 100%;
+    margin-right: 2rem;
+    }
+.contact{
+    width: 100%;
+    margin: 0 2rem;
+}
+
+.contact h3{
+    display: flex;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2rem;
+    color: var(--color-texto);
+    padding-bottom: .5rem;
+}
+
+.contact p{
+    font-size: 1rem;
+    padding-bottom: .5rem;
+}
+
+.datos{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: none;
+}
+
+.datos form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    max-width: 50rem;
+    position: relative;
+    overflow: hidden;
+}
+
+.datos input, .datos textarea{
+    width: 100%;
+    height: auto;
+    background: none;
+    color: var(--color-texto);
+    padding-top: 1.5rem;
+    border: #4e4d4d;
+    outline: 0px;
+}
+
+.datos .lbl-nombre, .datos .lbl-mensaje{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    border-bottom: .05rem solid #8d8d8d;
+}
+.datos .lbl-nombre::after, .datos .lbl-mensaje::after{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -1px;
+    width: 100%;
+    height: 100%;
+    border-bottom: .1rem solid #2A7AE4;
+    transform: translateX(-100%);
+    transition: all 0.3s ease;
+}
+
+.text-nombre{
+    position: absolute;
+    bottom: .3rem;
+    left: 0.2rem;
+    transition: all 0.3s ease;
+    color: var(--color-texto);
+}
+.text-mensaje{
+    position: absolute;
+    bottom: 9rem;
+    left: 0.2rem;
+    transition: all 0.3s ease;
+    color: var(--color-texto);
+}
+.datos input:focus + .lbl-nombre .text-nombre, .datos input:valid + .lbl-nombre .text-nombre,
+.datos textarea:focus + .lbl-mensaje .text-mensaje, .datos textarea:valid + .lbl-mensaje .text-mensaje
+{
+    transform: translateY(-140%);
+    font-size: 0.8rem;
+    font-weight: bold;
+    color: #2A7AE4;
+}
+
+.datos input:focus+ .lbl-nombre::after, .datos input:valid + .lbl-nombre:after,
+.datos textarea:focus+ .lbl-mensaje::after, .datos input:valid + .lbl-mensaje:after
+{
+    transform: translateX(0%);
+}
+.datos span{
+    font-size: 1rem;
+}
+.datos textarea{
+    height: 280px;
+    resize: none;
+    font-family: 'Raleway', sans-serif;
+}
+.input-message-error {
+    display: none;
+  }
+  
+  .input-container--invalid .input-message-error {
+    color: var(--warning-color);
+    display: block;
+    margin-top: 0.5rem;
+    padding-left: 0.5rem;
+  }
+  
+
+@media (max-width: 900px) {
+    .contacto img{
+        display: none;
+    }
+    .contact h3{
+        font-size: 1rem;
+    }
+    .contact p{
+        font-size: .6rem;
+        padding-bottom: .3rem;
+    }
+    .datos input, .datos textarea{
+        font-size: .6rem;
+        padding-top: 1rem;
+    }
+    .datos span{
+        font-size: .6rem;
+    }
+    .datos input:focus + .lbl-nombre .text-nombre, .datos input:valid + .lbl-nombre .text-nombre,
+    .datos textarea:focus + .lbl-mensaje .text-mensaje, .datos textarea:valid + .lbl-mensaje .text-mensaje
+    {
+        font-size: 0.4rem;
+        transform: translateY(-190%);
+    }
+    .text-mensaje{
+        bottom: 10rem;
+    }
+}
+@media (max-width: 500px) {
+    .datos input, .datos textarea{
+        margin: 0;
+    }
+    .datos .btn-blue{
+        margin-top: .5rem;
+    }
+}

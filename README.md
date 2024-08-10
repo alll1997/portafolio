@@ -70,5 +70,5 @@
  <h3>Mis estadísticas: </h3>
 <div id="header" align="center" margin: 50>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=alll1997&theme=dark&background=0000)](https://git.io/streak-stats) </a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alll1997&layout=compact&theme=dark&background=0000)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alll1997&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&background=162029&stroke=FFF8F8&ring=DD0C22&fire=DD0C22&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3FBBB3&sideLabels=3FBBB3&dates=FFFFFF&excludeDaysLabel=3FBBB3)](https://git.io/streak-stats) </a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alll1997&layout=compact&theme=dark&background=0000)](https://github.com/anuraghazra/github-readme-stats)
 </div>

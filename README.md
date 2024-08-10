@@ -11,7 +11,7 @@
  
    
 <h1>
-  Hola soy Anngie ¡Encantada de conocerte! 
+  ¡Hola! mi nombre es Anngie, estoy lista para transformar ideas en acciones y desafíos en oportunidades. ¡Un gusto conocerte!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 

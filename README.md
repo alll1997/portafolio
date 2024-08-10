@@ -21,13 +21,13 @@
 ### :woman_technologist: Sobre mí :
 
 
-Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-   
-* 🔭 Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:  
+Apasionada por la investigación de contextos, con una sólida base en programación y visualización de datos, contando historua atraves de ellos 🎨💻.
 
-* 🌱 Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft. 
+* 🔭 Actualmente, soy Directora de Proyectos en un Club Deportivo, donde lidero iniciativas que combinan creatividad, tecnología y análisis para mejorar el rendimiento y la eficiencia organizacional.
 
-* ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo 
+* 📊 Me he especilizado en el analisis de datos con Python, SQL, Tableau, y Power BI, siempre buscando nuevas formas de convertir la información en decisiones estratégicas y oportunidades de crecimiento.
+
+* ❤️ Disfruto de la innovación, encontrando maneras de alinear tecnología y el factor humano para lograr resultados impactantes en las problematicas organizacionales.
 
 ---
    

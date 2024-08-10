@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/alll1997/portafolio/blob/main/IMG_20190304_122131.jpg" width="800"/>
+  <img src="https://github.com/alll1997/portafolio/blob/main/IMG_20190304_122131.jpg" width="1000"/>
 </div>
 
 <div id="badges" align="center">
@@ -70,5 +70,5 @@
  <h3>Mis estadísticas: </h3>
 <div id="header" align="center" margin: 50>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=alll1997&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&background=162029&stroke=FFF8F8&ring=DD0C22&fire=DD0C22&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3FBBB3&sideLabels=3FBBB3&dates=FFFFFF&excludeDaysLabel=3FBBB3)](https://git.io/streak-stats) </a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alll1997&layout=compact&theme=dark&background=0000)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alll1997&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&background=162029&stroke=FFF8F8&ring=DD0C22&fire=DD0C22&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3FBBB3&sideLabels=3FBBB3&dates=FFFFFF&excludeDaysLabel=3FBBB3)](https://git.io/streak-stats) <!--![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alll1997&layout=compact&bg_color=transparent_color=30A3DC&title_color=E94D5F&text_color=FFF)-->
 </div>

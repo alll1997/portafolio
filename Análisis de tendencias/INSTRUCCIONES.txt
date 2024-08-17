@@ -1,0 +1,16 @@
+ANÁLISIS DE TENDENCIAS PUBLICITARIOS
+Analizar tendencias de vídeos en YouTube para determinar qué contenido merece atención para la mercadotecnia de la compañía Sterling & Draper
+
+Los datos:
+- Historial de tendencias — valores absolutos ordenados por día (dos gráficos: números absolutos y proporción de porcentaje)
+- Eventos, ordenados por país — valores relativos (% de eventos)
+- La correspondencia entre las categorías y los países — valores absolutos (una tabla)
+
+Fuentes de datos para el dashboard: los ingenieros prometieron crear una tabla de agregación llamada trending_by_time.csv
+Además de que se realizo un filtrado de datos, generando la tabla filter_trending_by_time.csv
+
+DASHBOARD INTERACTIVO
+https://public.tableau.com/views/dashboard_analisis_video/Dashboard?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link
+
+PRESENTACIÓN
+https://docs.google.com/presentation/d/1zGW6JNAx5PqaqgFb9gDN0BXQltywjUOZzji-eVYv9Jc/edit?usp=sharing

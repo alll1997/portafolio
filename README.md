@@ -7,7 +7,6 @@
 [![](https://img.shields.io/badge/LinkedIn-162029?style=for-the-badge&logo=linkedin&logoColor=3fbbb3)](https://www.linkedin.com/in/anngie-lopez) 
 [![](https://img.shields.io/badge/Tableau-162029?style=for-the-badge&logo=Tableau&logoColor=3fbbb3)](https://public.tableau.com/app/profile/anngie.lopez/vizzes)
 [![Gmail](https://img.shields.io/badge/Gmail-162029?style=for-the-badge&logo=gmail&logoColor=3fbbb3)](<a href=»mailto:prueba@prueba.com»>)
-[![](https://img.shields.io/badge/WhatsApp-162029?style=for-the-badge&logo=whatsapp&logoColor=3fbbb3)](https://wa.me/573154425598)
  
    
 <h1>

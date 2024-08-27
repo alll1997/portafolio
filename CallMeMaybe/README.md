@@ -5,6 +5,9 @@ Para mejorar el servicio se está desarrollando una nueva función que brindará
 
 Para ello se busca **analizar la cantidad de llamadas perdidas entrantes y salientes, tiempo de espera y la cantidad de llamadas salientes, determinando una perspectiva de las condiciones de los operadores menos eficaces**.
 
+Para visualizar las conclusiones del analisis, mirarlos en la [presentación](https://github.com/alll1997/portafolio/blob/main/CallMeMaybe/PROYECTO%20FINAL.pdf)
+<img src="https://github.com/alll1997/portafolio/blob/main/CallMeMaybe/image_presentación.png" width=1000/>
+
 ## Estructura del proyecto
 - EDA (Preprocesamiento de datos)
   - Importar datasets y optimizar sus valores según el tipo de datos que requiera

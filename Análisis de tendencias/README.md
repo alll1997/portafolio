@@ -20,5 +20,10 @@ Para interactuar los datos de los análisis, mirarlos a traves de [Tableau](http
 
 ## Presentación
 La profundización de las conclusiones del análisis, mirarlos a traves de la [presentación](https://github.com/alll1997/portafolio/blob/main/Análisis%20de%20tendencias/ANÁLISIS%20DE%20TENDENCIAS%20PUBLICITARIOS%20.pdf)
+<img src="https://github.com/alll1997/portafolio/blob/main/Análisis%20de%20tendencias/image_presentación.png" width=1000/>
+
 
 ## Conclusiones
+La prelación en las tendencias a lo largo del tiempo son entretenimiento, personas & blogs y música; la primera mencionada es la que tiene mayor relevancia, excepto en Rusia donde está en segunda posición. Existen otras categorías como noticias y política, música y comedia, influyentes en EE.UU, Francia e India. 
+En el caso de Estados Unidos, los videos de howto & style es representativa, así como las 10 categorías vinculadas en la etiqueta Otros, las cuales tiene menos de 5000 visitas en el periodo registrado.
+

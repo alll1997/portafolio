@@ -5,6 +5,8 @@ Para mejorar el servicio se está desarrollando una nueva función que brindará
 
 Para ello se busca **analizar la cantidad de llamadas perdidas entrantes y salientes, tiempo de espera y la cantidad de llamadas salientes, determinando una perspectiva de las condiciones de los operadores menos eficaces**.
 
+**SKILLS: Preprocesamiento de datos - Análisis exploratorio - Análisis estadistico - Análisis de negocio - Explicación de datos - Natación de historias**
+
 Para visualizar las conclusiones del analisis, mirarlos en la [presentación](https://github.com/alll1997/portafolio/blob/main/CallMeMaybe/PROYECTO%20FINAL.pdf)
 <img src="https://github.com/alll1997/portafolio/blob/main/CallMeMaybe/image_presentación.png" width=1000/>
 

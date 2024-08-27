@@ -9,6 +9,11 @@ Analizar tendencias de vídeos en YouTube para determinar qué contenido merece 
 Fuentes de datos para el dashboard: los ingenieros prometieron crear una tabla de agregación llamada trending_by_time.csv
 Además de que se realizo un filtrado de datos, generando la tabla filter_trending_by_time.csv
 
+## A tener en cuenta:
+- ¿Qué categorías de videos estuvieron en tendencia más frecuentemente?
+- ¿Cómo se distribuyeron en las regiones?
+- ¿Qué categorías fueron particularmente populares en los Estados Unidos? ¿Hubo diferencias entre las categorías populares en Estados Unidos y en otros lugares?
+
 ## Dashboard
 Para interactuar los datos de los análisis, mirarlos a traves de [Tableau](https://public.tableau.com/views/dashboard_analisis_video/Dashboard?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link)
 <img src="https://github.com/alll1997/portafolio/blob/main/Análisis%20de%20tendencias/image.png" width=1000/>

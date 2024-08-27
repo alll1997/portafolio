@@ -14,11 +14,11 @@ Contenido
 	- ¿Qué tipo de establecimiento es habitualmente una cadena?
 	- ¿Qué caracteriza a las cadenas: muchos establecimientos con un pequeño número de asientos o unos pocos establecimientos con un montón de asientos?
 	- Determina el promedio de número de asientos para cada tipo de restaurante. De promedio, ¿Qué tipo de restaurante tiene el mayor número de asientos?
-	-Coloca los datos de los nombres de las calles de la columna address en una columna separada.
+	- Coloca los datos de los nombres de las calles de la columna address en una columna separada.
 	- Determinar las diez mejores calles por número de restaurantes.
 	- Encuentra el número de calles que solo tienen un restaurante.
 	- Para las calles con muchos restaurantes, analiza la distribución del número de asientos. ¿Qué tendencias puedes ver?
-	-Conclusión y recomendaciones
+	- Conclusión y recomendaciones
 3. Presentación
 	- Presentación: link
 

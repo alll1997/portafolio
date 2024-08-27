@@ -2,6 +2,8 @@
 ## Descripción del proyecto
 Análisis estadístico para segmentar clientes y así facilitar el filtrado de un universo de compradores a audiencias que realmente pueden convertirse en compradores y generar leads de ventas.
 
+**SKILLS: Desarrollo web - Preprocesamiento de datos - Análisis exploratorio - Análisis estadistico - Explicación de datos - Narración de historias**
+
 Para visualizar las conclusiones del analisis y ver la versión final de la página, mirarlos en [Vercel](https://synergy-coders.vercel.app/)
 
 <img src="https://github.com/alll1997/portafolio/blob/main/Synergy-Coders/image_web.png" width=1000/>

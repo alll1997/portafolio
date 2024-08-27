@@ -1,6 +1,8 @@
 # ANÁLISIS DE TENDENCIAS PUBLICITARIOS
 Analizar tendencias de vídeos en YouTube para determinar qué contenido merece atención para la mercadotecnia de la compañía Sterling & Draper
 
+**SKILLS: Crear dashboards**
+
 ## Datos:
 - Historial de tendencias — valores absolutos ordenados por día (dos gráficos: números absolutos y proporción de porcentaje)
 - Eventos, ordenados por país — valores relativos (% de eventos)

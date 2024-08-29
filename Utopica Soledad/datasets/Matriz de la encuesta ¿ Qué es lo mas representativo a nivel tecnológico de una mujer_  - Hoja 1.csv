@@ -1,0 +1,214 @@
+Número de persona,Generó con el cuál se identifica,Edad,Ciudad de nacimiento,Departamento o país de nacimiento,Ciudades que ha vivido,Departamento o país ciudades que ha vivido,Ciudad de origen de su Padre,Departamento o país origen de su Padre,Ciudad es originaria de su madre,Departamento o país originaria de su madre,Productos capilares,Ropa ajustada,Ropa interior,Maquillaje,Joyería,"Productos o tratamientos de cuidado facial (mascarillas, cremas, láser...)",Ejercicio,Calzado,Considera que existe otro producto o servicio representativo,Productos capilares,Ropa ajustada,Ropa interior,Maquillaje,Joyería,"Productos o tratamientos de cuidado facial (mascarillas, cremas, láser...)",Ejercicio,Calzado,Considera que existe otro producto o servicio representativo,¿ Cuál es la zona corporal más representativa de la belleza femenina?,¿ Cuál es la zona corporal más representativa de la belleza femenina?
+1,Hombre,23,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,,,,,,,,,,3,2,4,4,4,4,5,3,Cirugías estéticas,,Cintura
+1,Hombre,23,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,,,,,,,,,,3,1,3,4,3,5,3,3,Cirugías estéticas,,El rostro
+1,Hombre,34,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,,,,,,,,,,5,5,5,5,5,5,5,5,Cirugías estéticas,,Las piernas
+1,Hombre,23,Bogotá,Cundinamarca,Fusagasugá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,,,,,,,,,,3,1,3,4,3,5,3,3,Cirugías estéticas,,El rostro
+1,Hombre,34,Bogotá,Cundinamarca,Ibagué,Tolima,Bogotá,Cundinamarca,Bogotá,Cundinamarca,,,,,,,,,,5,5,5,5,5,5,5,5,,,Las piernas
+1,Hombre,61,Cali,Valle del cauca,Bogotá,Cundinamarca,Cali,Valle del cauca,Bogotá,Cundinamarca,,,,,,,,,,4,4,4,4,4,4,4,4,Personalidad,,Los ojos
+1,Hombre,61,Cali,Valle del cauca,Bogotá,Cundinamarca,Cali,Valle del cauca,Bogotá,Cundinamarca,,,,,,,,,,4,4,4,4,4,4,4,4,Glamour,,Glúteos
+1,Hombre,61,Cali,Valle del cauca,Bogotá,Cundinamarca,Cali,Valle del cauca,Bogotá,Cundinamarca,,,,,,,,,,4,5,5,4,5,3,5,5,Glamour,,La inteligencia
+1,Hombre,61,Cali,Valle del cauca,Bogotá,Cundinamarca,Cali,Valle del cauca,Bogotá,Cundinamarca,,,,,,,,,,4,5,5,4,5,4,5,5,,,Cara
+1,Hombre,61,Cali,Valle del cauca,Bogotá,Cundinamarca,Cali,Valle del cauca,Bogotá,Cundinamarca,,,,,,,,,,3,3,5,3,5,3,5,5,Medias,,Sus piernas
+1,Hombre,61,Cali,Valle del cauca,Bogotá,Cundinamarca,Cali,Valle del cauca,Bogotá,Cundinamarca,,,,,,,,,,5,5,4,3,4,3,5,4,Personalidad,,Inteligencia
+1,Hombre,19,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,,,,,,,,,,2,5,2,4,3,1,4,2,Cirugías estéticas,,Caderas
+1,Hombre,25,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,,,,,,,,,,1,5,5,5,5,3,1,5,Cirugía estética,,La cola y el busto
+1,Hombre,32,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,,,,,,,,,,4,4,4,4,5,5,3,5,Toallas intimas,,Todo el cuerpo
+1,Hombre,28,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Firavitoba,Boyacá,Bogotá,Cundinamarca,,,,,,,,,,3,3,5,2,2,1,3,1,"Lencería, pijamas.",,Las curvaturas del cuerpo
+1,Hombre,23,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Guaduas,Cundinamarca,Bogotá,Cundinamarca,,,,,,,,,,5,5,4,4,4,4,4,5,Cirugías estéticas,,Cuello
+1,Hombre,19,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,,,,,,,,,,5,3,4,5,4,4,4,5,,,Busto
+1,Hombre,21,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,,,,,,,,,,5,4,4,5,3,4,4,2,Cirugía plástica.,,Caderas
+1,Hombre,22,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Claraval,Cundinamarca,Bogotá,Cundinamarca,,,,,,,,,,3,4,4,3,5,2,1,1,,,Cintura
+1,Hombre,44,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Pitalito,Huila,Bogotá,Cundinamarca,,,,,,,,,,3,3,2,2,2,3,3,4,,,Rostro
+1,Hombre,44,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Viota,Cundinamarca,Bogotá,Cundinamarca,,,,,,,,,,4,4,4,3,2,3,4,3,Cirugías estéticas,,Rostro
+1,Hombre,21,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Tunja,Boyacá,Tunja,Boyacá,,,,,,,,,,4,4,3,5,5,5,3,3,Cirugías estéticas,,Cabello
+1,Hombre,21,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Tunja,Boyacá,Tunja,Boyacá,,,,,,,,,,4,4,3,5,5,5,3,3,Cirugías estéticas,,Cabello
+1,Hombre,21,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Tunja,Boyacá,Tunja,Boyacá,,,,,,,,,,4,4,3,5,5,5,3,3,Cirugías estéticas,,Cabello
+1,Hombre,34,Bucaramanga,Santander,Bogotá,Cundinamarca,Bucaramanga,Santander,Bucaramanga,Santander,,,,,,,,,,3,3,3,5,5,5,3,5,,,Busto
+1,Hombre,21,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Cali,Valle del cauca,,,,,,,,,,5,4,5,4,5,4,3,4,,,Busto
+1,Hombre,18,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Espinal,Tolima,Chiquinquirá,Boyacá,,,,,,,,,,3,3,4,5,4,5,5,4,-,,Abdomen
+1,Hombre,40,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Fresno,Tolima,,,,,,,,,,3,1,1,3,2,1,4,4,Toallas sanitarias,,Todo el cuerpo
+1,Hombre,18,Neiva,Huila,Cartagena,Bolívar,Santa Marta,Magdalena,Gigante,Huila,,,,,,,,,,4,3,2,1,3,2,3,3,Cirugías estéticas,,Cara
+1,Hombre,18,Neiva,Huila,Neiva,Huila,Santa Marta,Magdalena,Gigante,Huila,,,,,,,,,,4,3,2,1,3,2,3,3,Cirugías estéticas,,Cara
+1,Hombre,32,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Granada,Meta,,,,,,,,,,3,3,5,4,5,4,5,5,Cirugías estéticas,,Rostro
+1,Hombre,22,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Medellín,Antioquia,Granada,Meta,,,,,,,,,,5,3,4,4,2,5,4,3,Cirugías estéticas,,Rostro
+1,Hombre,53,Bogotá,Cundinamarca,Chía,Cundinamarca,Sogamoso,Boyacá,Honda,Tolima,,,,,,,,,,5,4,4,4,4,3,3,5,Vivienda,,Rostro
+1,Hombre,44,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Ibagué,Tolima,,,,,,,,,,2,3,4,4,5,4,3,4,Toallas sanitarias,,Busto
+1,Hombre,40,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Popayán,Tolima,La palma,Cundinamarca,,,,,,,,,,5,4,5,5,4,5,4,4,Masajes reductores y tratamientos de adelgazamiento y de belleza,,"Sonrisa, Rostro, Senos, Trasero, Cintura"
+1,Hombre,19,Barranquilla,Atlantico,Barranquilla,Atlantico,Barranquilla,Atlantico,Los ángeles,Estado Unidos,,,,,,,,,,1,1,1,3,3,3,3,4,Cirugías estéticas,,Su rostro
+1,Hombre,19,Barranquilla,Atlantico,Bogotá,Cundinamarca,Barranquilla,Atlantico,Los ángeles,Estado Unidos,,,,,,,,,,1,1,1,3,3,3,3,4,Cirugías estéticas,,Su rostro
+1,Hombre,19,Barranquilla,Atlantico,Los Ángeles,Estado Unidos,Barranquilla,Atlantico,Los ángeles,Estado Unidos,,,,,,,,,,1,1,1,3,3,3,3,4,Cirugías estéticas,,Su rostro
+1,Hombre,21,Bogotá,Cundinamarca,Seattle,Estados Unidos,Bogotá,Cundinamarca,Palermo,Huila,,,,,,,,,,2,3,4,4,3,3,4,1,Cirugías estéticas,,Rostro
+1,Hombre,16,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Tunja,Boyacá,Santa Marta,Atlantico,,,,,,,,,,5,2,1,2,1,2,4,1,Toallas sanitarias,,Cara
+1,Hombre,18,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Santana,Boyaca,,,,,,,,,,4,4,4,4,4,4,4,4,,,La cara
+1,Hombre,17,Bucaramanga,Santander,Playón,Santander,Cúcuta,Norte de Santander,Santander de Quilichao,Cauca,,,,,,,,,,2,4,1,3,4,2,4,3,,,Cabello
+1,Hombre,50,Sogamoso,Boyacá,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Sogamoso,Boyacá,,,,,,,,,,4,4,4,4,4,4,4,4,Alimentación,,Cuerpo y rostro
+1,Hombre,66,Sotaquira,Boyacá,Bogotá,Cundinamarca,Sotaquira,Boyacá,Tuta,Boyacá,,,,,,,,,,4,5,5,5,5,5,4,4,Cirugías estéticas,,Cadera cara busto
+1,Hombre,66,Sotaquira,Boyacá,Bucaramanga,Santander,Sotaquira,Boyacá,Tuta,Boyacá,,,,,,,,,,4,5,5,5,5,5,4,4,Cirugías estéticas,,Cadera cara busto
+1,Hombre,66,Sotaquira,Boyacá,Cali,Valle del cauca,Sotaquira,Boyacá,Tuta,Boyacá,,,,,,,,,,4,5,5,5,5,5,4,4,Cirugías estéticas,,Cadera cara busto
+1,Hombre,66,Sotaquira,Boyacá,Ibagué,Tolima,Sotaquira,Boyacá,Tuta,Boyacá,,,,,,,,,,4,5,5,5,5,5,4,4,Cirugías estéticas,,Cadera cara busto
+1,Hombre,49,Valledupar,Cesar,Bogotá,Cundinamarca,Valledupar,Cauca,Valledupar,Cesar,,,,,,,,,,5,4,5,3,3,5,5,5,Salones de belleza,,La flacidez
+1,Hombre,49,Valledupar,Cesar,Valledupar,Cesar,Valledupar,Cauca,Valledupar,Cesar,,,,,,,,,,5,4,5,3,3,5,5,5,Salones de belleza,,Glúteos
+1,Hombre,46,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Sogamoso,Boyacá,Ventaquemada,Boyacá,,,,,,,,,,3,2,2,4,4,3,4,4,Toallas sanitarias,,La cara
+1,Hombre,46,Bogotá,Cundinamarca,Madrid,Cundinamarca,Sogamoso,Boyacá,Ventaquemada,Boyacá,,,,,,,,,,3,2,2,4,4,3,4,4,Educación,,La cara
+1,Mujer,18,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Chaparral,Tolima,Armero,Tolima,2,2,3,3,2,3,3,3,,,,,,,,,,,Los senos,
+1,Mujer,18,Bogotá,Cundinamarca,Ibagué,Tolima,Chaparral,Tolima,Armero,Tolima,2,2,3,3,2,3,3,3,,,,,,,,,,,Los senos,
+1,Mujer,51,Bogotá,Cundinamarca,Barranquilla,Atlantico,Santa Marta,Magdalena,Barranquilla,Atlantico,4,4,5,4,3,4,4,3,,,,,,,,,,,Rostro,
+1,Mujer,51,Bogotá,Cundinamarca,Caracas,Venezuela,Santa Marta,Magdalena,Barranquilla,Atlantico,4,4,5,4,3,4,4,3,,,,,,,,,,,Rostro,
+1,Mujer,51,Bogotá,Cundinamarca,Santa Marta,Magdalena,Santa Marta,Magdalena,Barranquilla,Atlantico,4,4,5,4,3,4,4,3,,,,,,,,,,,Rostro,
+1,Mujer,17,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Barranquilla,Atlantico,2,3,3,3,4,3,3,3,,,,,,,,,,,Su rostro,
+1,Mujer,17,Bogotá,Cundinamarca,Santa Marta,Magdalena,Bogotá,Cundinamarca,Barranquilla,Atlantico,2,3,3,3,4,3,3,3,,,,,,,,,,,Su rostro,
+1,Mujer,18,Barranquilla,Atlantico,Barranquilla,Atlantico,Cartagena,Bolívar,Barranquilla,Atlantico,4,4,5,5,3,4,4,5,,,,,,,,,,,Genitales,
+1,Mujer,18,Barranquilla,Atlantico,Bogotá,Cundinamarca,Cartagena,Bolívar,Barranquilla,Atlantico,4,4,5,5,3,4,4,5,,,,,,,,,,,Genitales,
+1,Mujer,18,Barranquilla,Atlantico,Mushaisa,Guajira,Cartagena,Bolívar,Barranquilla,Atlantico,4,4,5,5,3,4,4,5,,,,,,,,,,,Genitales,
+1,Mujer,57,Paipa,Boyacá,Bogotá,Cundinamarca,Paipa,Boyacá,Bituima,Boyacá,5,4,5,5,3,5,5,5,,,,,,,,,,,Todo el cuerpo,
+1,Mujer,63,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,4,4,4,4,4,4,4,4,,,,,,,,,,,El cuerpo,
+1,Mujer,64,Bucaramanga,Santander,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,5,3,3,3,3,3,3,4,Alimentos sanos,,,,,,,,,,Cintura,
+1,Mujer,22,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,5,2,5,4,4,3,5,5,,,,,,,,,,,El rostro,
+1,Mujer,14,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Chiquinquira,Boyacá,Bogotá,Cundinamarca,3,2,4,5,3,5,4,3,,,,,,,,,,,La cara,
+1,Mujer,35,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Guacheta,Cundinamarca,Bogotá,Cundinamarca,4,3,5,3,2,3,5,5,Maquillaje,,,,,,,,,,cara,
+1,Mujer,24,Bogotá,Cundinamarca,Acacias,Meta,Pensilvania,Estados Unidos,Bogotá,Cundinamarca,5,4,4,5,5,5,4,5,,,,,,,,,,,las caderas,
+1,Mujer,24,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Pensilvania,Estados Unidos,Bogotá,Cundinamarca,5,4,4,5,5,5,4,5,,,,,,,,,,,las caderas,
+1,Mujer,17,Cali,Valle del cauca,Bogotá,Cundinamarca,San martin,Cesar,Bogotá,Cundinamarca,4,3,4,4,4,3,4,1,,,,,,,,,,,Busto,
+1,Mujer,65,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,4,4,4,4,4,4,4,4,,,,,,,,,,,El cuerpo,
+1,Mujer,16,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,4,1,3,3,4,3,4,4,,,,,,,,,,,Busto,
+1,Mujer,18,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,4,4,3,5,4,4,3,4,,,,,,,,,,,El rostro,
+1,Mujer,18,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,5,3,5,4,4,4,4,4,Pienso que los accesorios de los celulares y bolsos,,,,,,,,,,"El rostro, el cabello y las manos",
+1,Mujer,18,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,4,3,5,2,5,2,5,5,,,,,,,,,,,La cintura,
+1,Mujer,19,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,4,2,3,5,4,4,3,5,,,,,,,,,,,Los labios,
+1,Mujer,30,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,3,1,1,2,2,2,5,1,,,,,,,,,,,Todo.su ser,
+1,Mujer,15,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,3,1,1,3,3,5,5,4,,,,,,,,,,,Todo,
+1,Mujer,18,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,5,5,4,5,3,4,3,4,,,,,,,,,,,Las caderas,
+1,Mujer,24,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,3,3,4,5,3,5,3,3,,,,,,,,,,,La cara,
+1,Mujer,17,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,4,2,5,3,3,3,4,3,,,,,,,,,,,Cabello,
+1,Mujer,45,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,1,3,4,3,4,3,4,5,,,,,,,,,,,el cabeza,
+1,Mujer,21,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,5,5,5,5,4,5,3,3,,,,,,,,,,,La cintura,
+1,Mujer,23,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,5,1,5,5,3,3,1,5,Cirugías plásticas,,,,,,,,,,Cintura?,
+1,Mujer,19,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Cúcuta,Norte de Santander,Bogotá,Cundinamarca,3,5,5,5,5,5,5,3,Cirugías plásticas,,,,,,,,,,siento que lo que más ve la gente son los glúteos en las mujeres,
+1,Mujer,22,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Cúcuta,Norte de Santander,Bogotá,Cundinamarca,5,1,5,3,3,5,3,3,Cirugías plásticas,,,,,,,,,,Las caderas,
+1,Mujer,25,Ibagué,Tolima,Bogotá,Cundinamarca,Ibagué,Tolima,Bogotá,Cundinamarca,3,3,3,3,1,3,3,3,Cirugías plásticas,,,,,,,,,,El rostro,
+1,Mujer,38,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Tenjo,Cundinamarca,Bogotá,Cundinamarca,4,3,3,5,5,3,4,4,Cirugías plásticas,,,,,,,,,,Rostro,
+1,Mujer,13,Neiva,Huila,Bogotá,Cundinamarca,Timana,Huila,Bogotá,Cundinamarca,1,1,1,1,1,1,1,1,Cirugías plásticas,,,,,,,,,,La sonrisa,
+1,Mujer,13,Neiva,Huila,Neiva,Huila,Timana,Huila,Bogotá,Cundinamarca,1,1,1,1,1,1,1,1,Cirugías plásticas,,,,,,,,,,La sonrisa,
+1,Mujer,18,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,5,3,1,2,2,4,5,3,Cirugías plásticas,,,,,,,,,,El busto,
+1,Mujer,18,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,3,3,4,4,3,4,4,2,Cirugías plásticas,,,,,,,,,,Las tetas 🙄,
+1,Mujer,25,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,5,4,5,4,3,5,5,4,Cirugías plásticas,,,,,,,,,,Labios,
+1,Mujer,20,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Armenia,Quindio,Bogotá,Cundinamarca,3,4,5,5,5,4,4,4,,,,,,,,,,,"Caderas, cola, busto",
+1,Mujer,22,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,3,3,4,5,5,4,4,5,,,,,,,,,,,piernas,
+1,Mujer,20,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,1,1,1,1,1,1,1,1,,,,,,,,,,,El rostro,
+1,Mujer,11,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,5,1,1,5,5,5,5,5,,,,,,,,,,,Todo su cuerpo porque son perfect tal y como son,
+1,Mujer,21,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,3,2,3,2,1,3,3,3,,,,,,,,,,,Todo el cuerpo en general de la mujer la representa,
+1,Mujer,17,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,4,4,3,4,4,5,5,3,,,,,,,,,,,Cuerpo,
+1,Mujer,15,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,2,3,4,1,3,2,3,1,,,,,,,,,,,El torso,
+1,Mujer,16,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,3,1,5,3,3,4,4,5,,,,,,,,,,,La cara o los ojos,
+1,Mujer,11,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,5,1,1,4,5,5,5,5,,,,,,,,,,,Todo su cuerpo porque son perfectas tal y como son y no necesitamos que los hombres nos digan que mostrar y que no,
+1,Mujer,23,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,4,2,5,5,5,5,3,5,"Ropa, accesorios, Cirugías estéticas, anticonceptivos",,,,,,,,,,90-60-90 🎵🎶,
+1,Mujer,21,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,4,1,5,5,5,5,4,2,,,,,,,,,,,"Busto,. labios, ojos pestañas cabello",
+1,Mujer,21,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,5,4,5,3,4,4,5,5,Productos sanos,,,,,,,,,,Si cara,
+1,Mujer,21,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,4,2,2,2,3,3,2,2,,,,,,,,,,,Los senos y la cola.,
+1,Mujer,22,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,3,3,5,5,4,4,4,5,,,,,,,,,,,Cara,
+1,Mujer,22,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,3,3,4,1,1,4,1,1,,,,,,,,,,,"Su rostro y las diferentes expresiones que este puede llegar a crear, caracterizando la belleza de cada mujer",
+1,Mujer,22,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,4,3,5,4,5,4,4,5,,,,,,,,,,,"La cara (piel, ojos, sonrisa, el pelo), el busto",
+1,Mujer,42,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,4,4,4,4,5,4,2,4,Carteras,,,,,,,,,,Senos,
+1,Mujer,30,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,4,2,3,4,3,5,4,4,,,,,,,,,,,Rostro,
+1,Mujer,44,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,3,3,5,3,4,4,4,5,,,,,,,,,,,La piel,
+1,Mujer,21,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,3,2,3,2,1,3,3,3,,,,,,,,,,,Todo el cuerpo en general de la mujer la representa,
+1,Mujer,20,Bogotá,Cundinamarca,Cali,Valle del cauca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,1,1,1,1,1,1,1,1,,,,,,,,,,,El rostro,
+1,Mujer,55,Bogotá,Cundinamarca,Los Ángeles,Estados Unidos,Bogotá,Cundinamarca,Bogotá,Cundinamarca,4,4,4,5,5,5,5,5,Bolsos,,,,,,,,,,Cola,
+1,Mujer,20,Bogotá,Cundinamarca,New Jersey,Estados Unidos,Bogotá,Cundinamarca,Bogotá,Cundinamarca,1,1,1,1,1,1,1,1,,,,,,,,,,,El rostro,
+1,Mujer,20,Bogotá,Cundinamarca,Orlando,Estados Unidos,Bogotá,Cundinamarca,Bogotá,Cundinamarca,1,1,1,1,1,1,1,1,,,,,,,,,,,El rostro,
+1,Mujer,18,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Duitama,Boyacá,Bogotá,Cundinamarca,5,5,1,3,3,4,2,1,,,,,,,,,,,La cola,
+1,Mujer,25,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Togüí,Boyacá,Bogotá,Cundinamarca,4,4,4,5,5,4,3,3,,,,,,,,,,,El pecho,
+1,Mujer,20,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Tunja,Boyacá,Tunja,Boyacá,4,3,5,4,3,4,2,4,Productos de cuidado íntimo,,,,,,,,,,Rostro,
+1,Mujer,58,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Tunja,Boyacá,3,4,5,3,2,1,4,4,,,,,,,,,,,Cara,
+1,Mujer,47,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Tunja,Boyacá,Tunja,Boyacá,5,3,5,4,4,4,4,4,,,,,,,,,,,Cabeza,
+1,Mujer,23,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Tunja,Boyacá,Tunja,Boyacá,3,3,3,3,3,3,4,3,,,,,,,,,,,Rostro,
+1,Mujer,18,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bucaramanga,Santander,4,2,3,4,3,4,5,4,,,,,,,,,,,Rostro,
+1,Mujer,19,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Florencia,Caquetá,Bucaramanga,Santander,4,3,2,4,4,3,3,3,,,,,,,,,,,La cintura,
+1,Mujer,23,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Cali,Valle del cauca,3,1,5,5,3,4,3,4,Cirugías plásticas,,,,,,,,,,Busto,
+1,Mujer,16,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Cali,Valle del cauca,3,3,3,4,4,5,3,3,Cirugías plásticas,,,,,,,,,,Depende de cada mujer,
+1,Mujer,15,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Chiscas,Boyacá,Chiscas,Boyaca,3,2,2,3,2,2,3,2,Cirugías plásticas,,,,,,,,,,"Todo el cuerpo o lo que cada mujer quiera relucir más, es decisión de cada una",
+1,Mujer,41,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Mariquita,Tolima,Chita,Norte de Santander,5,2,5,1,1,3,5,5,Cirugías plásticas,,,,,,,,,,Busto,
+1,Mujer,47,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Talaigua nuevo,Bolívar,Cúcuta,Norte de Santander,3,2,4,3,5,3,5,4,,,,,,,,,,,Todo,
+1,Mujer,50,Bogotá,Cundinamarca,Girardot,Tolima,Rovira,Tolima,Dolores,Tolima,4,3,3,3,4,4,4,4,Estudio,,,,,,,,,,Rostro,
+1,Mujer,50,Bogotá,Cundinamarca,Girardot,Tolima,Rovira,Tolima,Dolores,Tolima,4,3,3,3,4,4,4,4,Estudio,,,,,,,,,,Rostro,
+1,Mujer,50,Bogotá,Cundinamarca,Tunja,Boyacá,Rovira,Tolima,Dolores,Tolima,4,3,3,3,4,4,4,4,Estudio,,,,,,,,,,Rostro,
+1,Mujer,50,Bogotá,Cundinamarca,Tunja,Boyacá,Rovira,Tolima,Dolores,Tolima,4,3,3,3,4,4,4,4,Estudio,,,,,,,,,,Rostro,
+1,Mujer,15,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Facatativá,Cundinamarca,2,4,5,4,4,5,4,4,,,,,,,,,,,Cara,
+1,Mujer,15,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Facatativá,Cundinamarca,2,4,5,4,4,5,4,4,,,,,,,,,,,Cara,
+1,Mujer,33,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Pasca,Cundinamarca,Fomeque,Cundinamarca,4,5,5,5,3,5,4,5,,,,,,,,,,,Figura,
+1,Mujer,15,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Fusa,Cundinamarca,3,2,5,3,2,2,5,3,,,,,,,,,,,Rostro,
+1,Mujer,15,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Fusagasugá,Cundinamarca,5,3,4,4,5,3,4,4,,,,,,,,,,,Las piernas,
+1,Mujer,21,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Guateque,Boyacá,Garagoa,Boyocá,4,3,3,3,3,4,3,3,,,,,,,,,,,Senos,
+1,Mujer,21,Bogotá,Cundinamarca,Duitama,Boyacá,Guateque,Boyacá,Garagoa,Boyocá,4,3,3,3,3,4,3,3,,,,,,,,,,,Senos,
+1,Mujer,46,Pitalito,Huila,Bogotá,Cundinamarca,Garzon,Boyacá,Garzon,Huila,5,3,5,3,3,4,4,4,,,,,,,,,,,Rostro,
+1,Mujer,49,Florencia,Caquetá,Florencia,Caquetá,Florencia,Caquetá,Génova,Quindio,4,3,4,5,4,3,4,5,,,,,,,,,,,LOS OJOS,
+1,Mujer,49,Florencia,Caquetá,Pitalito,Huila,Florencia,Caquetá,Génova,Quindio,4,3,4,5,4,3,4,5,,,,,,,,,,,LOS OJOS,
+1,Mujer,26,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Soata,Boyacá,Guateque,Boyacá,2,3,5,5,5,3,3,1,,,,,,,,,,,Área vaginal,
+1,Mujer,45,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Quetame,Cundinamarca,Gutiérrez,Cundinamarca,5,4,5,4,4,4,5,4,,,,,,,,,,,Rostro,
+1,Mujer,39,Pitalito,Huila,Bogotá,Cundinamarca,Neiva,Huila,Neiva,Huila,5,5,5,5,5,5,5,5,,,,,,,,,,,El físico,
+1,Mujer,40,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Santa Marta,Magdalena,Ibagué,Tolima,5,1,2,2,3,3,4,2,Limpieza,,,,,,,,,,rostro,cabello
+1,Mujer,19,Ibagué,Tolima,Bogotá,Cundinamarca,Ortega,Tolima,Ibagué,Tolima,3,3,3,2,2,2,3,3,Accesorios (carteras),,,,,,,,,,Busto,
+1,Mujer,50,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Junín,Cundinamarca,Junín,Cundinamarca,5,3,4,4,3,3,4,4,,,,,,,,,,,Cuerpo,
+1,Mujer,50,Bogotá,Cundinamarca,Villavicencio,Meta,Junín,Cundinamarca,Junín,Cundinamarca,5,3,4,4,3,3,4,4,,,,,,,,,,,Cuerpo,
+1,Mujer,55,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Guasca,Cundinamarca,Junín,Cundinamarca,4,2,3,3,1,3,5,3,Educación,,,,,,,,,,Rostro,
+1,Mujer,36,Cali,Valle del cauca,Bogotá,Cundinamarca,Guamo,Bolívar,La Sierra,Cundinamarca,4,3,4,4,3,4,4,5,Spa,,,,,,,,,,El rostro,
+1,Mujer,36,Cali,Valle del cauca,Cali,Valle del cauca,Guamo,Bolívar,La Sierra,Cundinamarca,4,3,4,4,3,4,4,5,Spa,,,,,,,,,,El rostro,
+1,Mujer,54,Bogotá,Cundinamarca,Buenaventura,Valle del cauca,Armero,Tolima,Málaga,Santander,5,1,5,3,4,4,5,4,Comida fitness,,,,,,,,,,Cara,
+1,Mujer,18,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Manta,Cundinamarca,4,3,5,2,3,4,3,5,Aseo personal,,,,,,,,,,La cara xd,
+1,Mujer,19,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Sutatausa,Cundinamarca,Manta,Cundinamarca,5,3,3,5,4,5,4,3,,,,,,,,,,,Cabello,
+1,Mujer,60,Medellín,Antioquia,Bogotá,Cundinamarca,Medellín,Antioquia,Medellín,Antioquia,5,3,5,5,3,3,5,5,Educación,,,,,,,,,,El rostro,
+1,Mujer,19,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Medellín,Antioquia,Medellín,Antioquia,2,3,1,3,3,4,1,1,,,,,,,,,,,Los senos,
+1,Mujer,18,Santa Marta,Magdalena,Bogotá,Cundinamarca,Santa Marta,Magdalena,Medellín,Antioquia,4,3,3,4,3,5,5,4,"Marcas de ropa, etc",,,,,,,,,,La cintura,
+1,Mujer,18,Santa Marta,Magdalena,Santa Marta,Magdalena,Santa Marta,Magdalena,Medellín,Antioquia,4,3,3,4,3,5,5,4,"Marcas de ropa, etc",,,,,,,,,,La cintura,
+1,Mujer,46,Miraflores,,Bogotá,Cundinamarca,Miraflores,Boyacá,Miraflores,Boyacá,5,4,5,3,3,3,3,5,Gym,,,,,,,,,,Cara,
+1,Mujer,27,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Cabrera,Cundinamarca,Miraflores,Boyacá,5,3,5,5,3,4,4,5,,,,,,,,,,,El cabello,
+1,Mujer,25,Mocoa,,Bogotá,Cundinamarca,Mocoa,Putumayo,Mocoa,Putumayo,3,4,5,3,3,3,3,5,Perfume,,,,,,,,,,Senos,
+1,Mujer,30,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bucaramanga,Santander,Pasto,Nariño,5,3,5,4,4,4,4,4,Cirugías,,,,,,,,,,Cola,
+1,Mujer,47,Pitalito,Huila,Pitalito,Huila,San Agustin,Huila,Neiva,Huila,4,2,4,4,3,4,5,5,,,,,,,,,,,El cuerpo,
+1,Mujer,47,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Nuevo Colón,Boyacá,Nuevo Colón,Boyacá,3,3,4,4,4,5,4,4,,,,,,,,,,,TODO EL CUERPO,
+1,Mujer,48,Oporapa,Huila,Bogotá,Cundinamarca,Oporapa,Huila,Oporapa,Huila,4,4,5,5,3,5,5,3,,,,,,,,,,,Glúteos,
+1,Mujer,18,Pitalito,Huila,Cali,Valle del cauca,Oporapa,Huila,Oporapa,Huila,4,2,2,2,2,3,3,2,,,,,,,,,,,La cara,
+1,Mujer,23,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Sotaquira,Boyacá,Oporapa,Huila,4,4,5,4,4,3,2,4,,,,,,,,,,,Busto,
+1,Mujer,45,Guadalupe,Huila,Bogotá,Cundinamarca,Villeta,Cundinamarca,Pacho,Cundinamarca,4,2,3,4,3,3,4,4,Comida Saludable,,,,,,,,,,La cara,
+1,Mujer,45,Guadalupe,Huila,Bucaramanga,Santander,Villeta,Cundinamarca,Pacho,Cundinamarca,4,2,3,4,3,3,4,4,Comida Saludable,,,,,,,,,,La cara,
+1,Mujer,45,Guadalupe,Huila,Neiva,Huila,Villeta,Cundinamarca,Pacho,Cundinamarca,4,2,3,4,3,3,4,4,Comida Saludable,,,,,,,,,,La cara,
+1,Mujer,15,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Zipaquirá,Cundinamarca,Pacho,Cundinamarca,3,3,4,4,4,5,5,4,Deporte,,,,,,,,,,Los senos,
+1,Mujer,18,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Sogamoso,Boyacá,Paipa,Boyacá,5,5,5,5,5,4,2,5,,,,,,,,,,,La retaguardia y los senos,
+1,Mujer,21,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Pasto,Nariño,2,4,3,4,3,2,3,4,,,,,,,,,,,Cabello,
+1,Mujer,16,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Villavicencio,Santander,Pasto,Nariño,5,3,4,4,3,4,5,3,,,,,,,,,,,La que no es física,
+1,Mujer,23,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Pasto,Nariño,3,5,5,4,5,4,3,5,Cirugías estéticas,,,,,,,,,,La Cola y los senos,
+1,Mujer,44,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Pesca,Boyacá,5,4,5,5,5,5,5,5,Look,,,,,,,,,,La cara,
+1,Mujer,24,Pitalito,Huila,Bogotá,Cundinamarca,Pitalito,Huila,Pitalito,Huila,5,4,5,5,5,5,5,3,,,,,,,,,,,El rostro,
+1,Mujer,24,Pitalito,Huila,Bogotá,Cundinamarca,Pitalito,Huila,Pitalito,Huila,5,4,5,5,5,5,5,3,,,,,,,,,,,El rostro,
+1,Mujer,24,Pitalito,Huila,Medellín,Antioquia,Pitalito,Huila,Pitalito,Huila,5,4,5,5,5,5,5,3,,,,,,,,,,,El rostro,
+1,Mujer,24,Pitalito,Huila,Medellín,Antioquia,Pitalito,Huila,Pitalito,Huila,5,4,5,5,5,5,5,3,,,,,,,,,,,El rostro,
+1,Mujer,24,Pitalito,Huila,Palmira,Valle del cauca,Pitalito,Huila,Pitalito,Huila,5,4,5,5,5,5,5,3,,,,,,,,,,,El rostro,
+1,Mujer,24,Pitalito,Huila,Palmira,Valle del cauca,Pitalito,Huila,Pitalito,Huila,5,4,5,5,5,5,5,3,,,,,,,,,,,El rostro,
+1,Mujer,24,Pitalito,Huila,Pereira,Risaralda,Pitalito,Huila,Pitalito,Huila,5,4,5,5,5,5,5,3,,,,,,,,,,,El rostro,
+1,Mujer,24,Pitalito,Huila,Pereira,Risaralda,Pitalito,Huila,Pitalito,Huila,5,4,5,5,5,5,5,3,,,,,,,,,,,El rostro,
+1,Mujer,24,Pitalito,Huila,Pitalito,Huila,Pitalito,Huila,Pitalito,Huila,5,4,5,5,5,5,5,3,,,,,,,,,,,El rostro,
+1,Mujer,24,Pitalito,Huila,Pitalito,Huila,Pitalito,Huila,Pitalito,Huila,5,4,5,5,5,5,5,3,,,,,,,,,,,El rostro,
+1,Mujer,51,Pitalito,Huila,Pitalito,Huila,Pitalito,Huila,Pitalito,Huila,4,4,2,3,2,3,5,4,,,,,,,,,,,Nalgas,
+1,Mujer,51,Pitalito,Huila,Neiva,Huila,Pitalito,Huila,Pitalito,Huila,4,4,2,3,2,3,5,4,,,,,,,,,,,Glúteos,
+1,Mujer,51,Pitalito,Huila,Bogotá,Cundinamarca,Pitalito,Huila,Pitalito,Huila,4,4,2,3,2,3,5,4,,,,,,,,,,,Glúteos,
+1,Mujer,51,Popayán,Tolima,Bogotá,Cundinamarca,Popayán,Tolima,Popayán,Tolima,3,3,4,4,3,5,4,3,,,,,,,,,,,Cara,
+1,Mujer,51,Popayán,Tolima,Cali,Valle del cauca,Popayán,Tolima,Popayán,Tolima,3,3,4,4,3,5,4,3,,,,,,,,,,,Cara,
+1,Mujer,51,Popayán,Tolima,Popayán,Cauca,Popayán,Tolima,Popayán,Tolima,3,3,4,4,3,5,4,3,,,,,,,,,,,Cara,
+1,Mujer,48,Purificación,Tolima,Bogotá,Cundinamarca,Purificación,Tolima,Purificación,Tolima,3,2,2,4,3,3,4,3,,,,,,,,,,,Pecho,
+1,Mujer,18,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Ramiriquí,Boyacá,4,3,3,4,2,4,3,3,Ropa con colores llamativos,,,,,,,,,,Cara,
+1,Mujer,47,Pitalito,Huila,Bogotá,Cundinamarca,Pitalito,Huila,Saladoblanco,Huila,4,4,5,5,5,5,4,4,,,,,,,,,,,El rostro,
+1,Mujer,39,Valparaíso,Chile,Pitalito,Huila,Guadalupe,Huila,San Agustín,Hula,3,3,5,5,3,3,4,4,,,,,,,,,,,Glúteos,
+1,Mujer,21,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Suesca,Cundinamarca,San Miguel,Putumayo,3,2,3,3,4,2,4,4,,,,,,,,,,,La piel,
+1,Mujer,43,Cali,Valle del cauca,Cali,Valle del cauca,Cali,Valle del cauca,Santander de Quilichao,Cauca,3,2,2,2,2,2,4,4,.,,,,,,,,,,Las manos,
+1,Mujer,43,Cali,Valle del cauca,Bogotá,Cundinamarca,Cali,Valle del cauca,Santander de Quilichao,Cauca,3,2,2,2,2,2,4,4,.,,,,,,,,,,Las manos,
+1,Mujer,18,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Cunday,Tolima,Socorro,Santander,5,3,3,3,2,4,4,4,El cuidado de las uñas,,,,,,,,,,Cabello,
+1,Mujer,18,Bogotá,Cundinamarca,Girardot,Tolima,Cunday,Tolima,Socorro,Santander,5,3,3,3,2,4,4,4,El cuidado de las uñas,,,,,,,,,,Cabello,
+1,Mujer,46,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Ibagué,Tolima,Sogamoso,Boyacá,5,2,5,5,4,5,5,5,,,,,,,,,,,Cara,
+1,Mujer,58,Sutatausa,Cundinamarca,Bogotá,Cundinamarca,Sutatausa,Cundinamarca,Sutatausa,Cundinamarca,5,1,5,2,3,3,5,3,Alimentación,,,,,,,,,,La cara,
+1,Mujer,39,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Topaga,Boyacá,4,4,4,4,4,3,4,4,,,,,,,,,,,Rostro,
+1,Mujer,60,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Tunja,Boyacá,Tunja,Boyacá,5,2,2,4,2,3,3,4,,,,,,,,,,,Cabeza,
+1,Mujer,14,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Valledupar,Cesar,4,5,5,4,4,4,4,4,,,,,,,,,,,Ojos,
+1,Mujer,14,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Valledupar,Cesar,4,5,5,4,4,4,4,4,,,,,,,,,,,Ojos,
+1,Mujer,14,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Pasto,Nariño,Victoria,Caldas,1,2,2,3,1,1,1,1,,,,,,,,,,,Cabello,
+1,Mujer,30,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Bucaramanga,Santander,Zipaquirá,Cundinamarca,4,4,4,5,3,4,4,4,Cirugías estéticas,,,,,,,,,,Cara,
+1,Mujer,18,Bogotá,Cundinamarca,Bogotá,Cundinamarca,Salamina,Caldas,Zipaquirá,Cundinamarca,4,3,3,4,4,4,5,4,,,,,,,,,,,La cara,
